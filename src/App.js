@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Profile />
-      Hello Git Testing
+      Hello Git Testing done
     </div>
   );
 }
